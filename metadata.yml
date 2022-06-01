@@ -2,7 +2,7 @@
 maintainer:
   name: Touchon Marie
   email: mtouchon@pasteur.fr
-short_desc: CasFinder - Models for 6 types, 37 subtypes of CRISPR-Cas systems, and one general model called CAS_Cluster to identified atypical or untypable systems.
+short_desc: CasFinder - Models for detection of CRISPR-Cas systems.
 vers: 3.1.0
 cite: 
   - |
