@@ -71,7 +71,7 @@ to install the CasFinder package.
 to run the search on your favorite organism's genome (see [MacSyFinder's documentation](http://macsyfinder.readthedocs.io/en/latest/)). 
 ```sh
     macsyfinder --db-type ordered_replicon \
-        --replicon-topology circular \
+        	--replicon-topology circular \
 		--sequence-db myproteins.fasta \
 		--models CasFinder all 		
 ```	
