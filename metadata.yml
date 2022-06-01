@@ -5,12 +5,12 @@ maintainer:
 short_desc: CasFinder - Models for detection of CRISPR-Cas systems.
 vers: 3.1.0
 cite: 
-  - |
+- |
   Abby SS, Néron B, Ménager H, Touchon M, Rocha EPC (2014).
   MacSyFinder: A Program to Mine Genomes for Molecular Systems with an Application to CRISPR-Cas Systems. 
   In PLoS ONE 9(10): e110726.
   https://doi.org/10.1371/journal.pone.0110726
-  - |
+- |
   Couvin, D., Bernheim, A., Toffano-Nioche, C., Touchon, M., Michalik, J., Néron, B., Rocha E.P.C, Vergnaud, G., Gautheret, D., Pourcel, C. (2018) 
   CRISPRCasFinder, an update of CRISRFinder, includes a portable version, enhanced performance and integrates search for Cas proteins.
   Nucleic Acids Research, Volume 46, Issue W1, 2 July 2018, Pages W246–W251. 
