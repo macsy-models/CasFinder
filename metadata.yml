@@ -1,0 +1,21 @@
+---
+maintainer:
+  name: Touchon Marie
+  email: mtouchon@pasteur.fr
+short_desc: CasFinder - Models for 6 types of CRISPR-Cas systems (Type I, II, III, IV, V, VI), 
+37 subtypes of CRISPR-Cas systems (Subtype I-A, I-B, I-C, I-D, I-E, I-F, I-G, II-A, II-B, II-C, III-A, III-B, III-C, III-D, III-E, III-F, IV-A, IV-B, IV-C, IV-D, IV-E, V-A, V-B, V-C, V-D, V-E, V-F, V-G, V-H, V-I, V-K, VI-A, VI-B, VI-C, VI-D, VI-X, VI-Y), and one general model called CAS_Cluster to identified atypical or untypable systems.
+vers: 3.1.0
+cite: 
+  - |
+  Abby SS, Néron B, Ménager H, Touchon M, Rocha EPC (2014).
+  MacSyFinder: A Program to Mine Genomes for Molecular Systems with an Application to CRISPR-Cas Systems. 
+  In PLoS ONE 9(10): e110726.
+  https://doi.org/10.1371/journal.pone.0110726
+  - |
+  Couvin, D., Bernheim, A., Toffano-Nioche, C., Touchon, M., Michalik, J., Néron, B., Rocha E.P.C, Vergnaud, G., Gautheret, D., Pourcel, C. (2018) 
+  CRISPRCasFinder, an update of CRISRFinder, includes a portable version, enhanced performance and integrates search for Cas proteins.
+  Nucleic Acids Research, Volume 46, Issue W1, 2 July 2018, Pages W246–W251. 
+  https://doi:10.1093/nar/gky425
+doc: https://github.com/macsy-models/CasFinder
+license: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+copyright: 2014-2022, Institut Pasteur, CNRS
