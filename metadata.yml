@@ -2,8 +2,7 @@
 maintainer:
   name: Touchon Marie
   email: mtouchon@pasteur.fr
-short_desc: CasFinder - Models for 6 types of CRISPR-Cas systems (Type I, II, III, IV, V, VI), 
-37 subtypes of CRISPR-Cas systems (Subtype I-A, I-B, I-C, I-D, I-E, I-F, I-G, II-A, II-B, II-C, III-A, III-B, III-C, III-D, III-E, III-F, IV-A, IV-B, IV-C, IV-D, IV-E, V-A, V-B, V-C, V-D, V-E, V-F, V-G, V-H, V-I, V-K, VI-A, VI-B, VI-C, VI-D, VI-X, VI-Y), and one general model called CAS_Cluster to identified atypical or untypable systems.
+short_desc: CasFinder - Models for 6 types, 37 subtypes of CRISPR-Cas systems, and one general model called CAS_Cluster to identified atypical or untypable systems.
 vers: 3.1.0
 cite: 
   - |
