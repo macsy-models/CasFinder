@@ -32,7 +32,7 @@ Cas systems are identified at the type or subtype level using increasingly speci
 > Note: All models previously defined in CasFinder v2.0.3 include in [CRISPRCasFinder](https://crisprcas.i2bc.paris-saclay.fr/CrisprCasFinder/Index) [[1]](https://doi.org/10.1093/nar/gky425) have been rewritten to be compatible with the new version of macsyfinder v2.0rc7 and updated to take into account the most recently proposed nomenclature [[2]](https://www.nature.com/articles/s41579-019-0299-x)[[3]](https://doi.org/10.1038/s41592-021-01124-4).
 These latest versions of macsyfinder and CasFinder will be integrated in CRISPRCasFinder as soon as possible.
 
-> Note: Currently, macsyfinder v2.0rc4 and CasFinder v3.0.0 are used in [DefenseFinder](https://defense-finder.mdmparis-lab.com/) [[5]](https://doi.org/10.1038/s41467-022-30269-9), a program detecting a wide range of anti-phage systems, including CRISPR-Cas systems. These latest versions of macsyfinder and CasFinder will be integrated in CRISPRCasFinder as soon as possible.
+> Note: Currently, macsyfinder v2.0rc4 and CasFinder v3.0.0 are used in [DefenseFinder](https://defense-finder.mdmparis-lab.com/) [[5]](https://doi.org/10.1038/s41467-022-30269-9), a program detecting a wide range of anti-phage systems, including CRISPR-Cas systems. These latest versions of macsyfinder and CasFinder will be integrated in DefenseFinder as soon as possible.
 
 This new version : 
 
